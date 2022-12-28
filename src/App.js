@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       usestate1
-      <p> yessssssssssS </p>
       <Counter />
     </div>
   );
